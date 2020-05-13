@@ -8,6 +8,7 @@ In this project
   * We created job1
     > This job is used to get the code from the github and copy that file to a folder 
     > This file will be used the webserver container to get the code
+    > To get the code we have used GITSCM to get the code whenever the developer pushes the code to github
     
   * In job2 
     > This job will create a docker container with patting enabled also we'll mount the volume containing the file 
