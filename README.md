@@ -29,8 +29,8 @@
 <p style="float: left">
     <img src="/job1.PNG" />
     <img src="/job2.PNG" />
-    <img src="/job2.PNG" />
-    <img src="/job2.PNG" />
+    <img src="/job3.PNG" />
+    <img src="/job4.PNG" />
 </p>
  
 
