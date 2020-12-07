@@ -1,4 +1,4 @@
-# jenkins-docker
+# Jenkins and Docker
 
 ### In this project
 
@@ -23,6 +23,14 @@
     > If it would have stopped so we'll create a new container quickly using this job
     
  4. All the above jobs are connected using the build pipeline
- 5. Please refer to the images that i have provided in this repo for your clarification.
+
+## Preview/ Images: 
+
+<p style="float: left">
+    <img src="/job1.PNG" />
+    <img src="/job2.PNG" />
+    <img src="/job2.PNG" />
+    <img src="/job2.PNG" />
+</p>
  
 
