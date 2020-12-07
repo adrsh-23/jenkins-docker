@@ -1,6 +1,6 @@
 # jenkins-docker
 
-In this project
+### In this project
 
 1. We create a dockerfile in order for us to launch a jenkins containing docker container
 2. We used that container to launch the jenkins 
@@ -25,10 +25,4 @@ In this project
  4. All the above jobs are connected using the build pipeline
  5. Please refer to the images that i have provided in this repo for your clarification.
  
- Thank You Vimal Sir!
- 
- This project has been made by Adarsh Thakur
- 
- Ps. I was not able to make the project upto the mark due to some technical difficulties.Hope you'll like this.
- THANK YOU...
- 
+
